@@ -1,0 +1,10 @@
+table {
+    padding: 5px;
+    border: 10px;
+    border-style: double;
+}
+
+th,td {
+    font-style: italic;
+    font-size: 15px;
+}
